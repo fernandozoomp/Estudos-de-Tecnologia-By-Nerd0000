@@ -1,13 +1,13 @@
 # 📜 Estudos de tecnologia
 
 ## Cursos de tecnologia com certificado
-
 - [💻 Digital Innovation One](https://digitalinnovation.one) - Geral
 - [💻 School of net](https://www.schoolofnet.com/cursos/gratuitos) - Geral
 - [💻 4Linux](https://4linux.com.br/cursos-gratis) - Geral
 - [💻 Cod3r](https://www.cod3r.com.br/collections?category=cursos-gratuitos) - Geral
 - [💻 Tec Forest](https://www.tecforest.com.br/category/cursos/) - Geral
-- [💻 Sololearn](https://www.sololearn.com) - Geral(em inglês)
+- [💻 Free Code Camp](https://www.freecodecamp.org/learn) - Geral (em inglês)
+- [💻 Sololearn](https://www.sololearn.com) - Geral (em inglês)
 - [☕ Loiane training](https://loiane.training) - Java, angular, cordova...
 - [🐍 Solyd](https://solyd.com.br/treinamentos/python-basico) - Python Básico
 - 🐍 Coursera - Python
@@ -33,12 +33,11 @@
 - [🌐 Minicurso web design responsivo](https://www.youtube.com/playlist?list=PLZTjHbp2Y782r6cqjm5JU91_sgPxM19k-) - HTML5 e CSS3
 - [🌐 Recriando Tela de Login do Facebook](https://bugnocod.wordpress.com/recriando-tela-login-facebook/?fbclid=IwAR1n_ivx935GS9vAadbqkDWYB8K_F6i7uq2xQaMBEpoyzvVS3RTUCqpw7BI) - HTML5 e CSS3
 - [🌐 Cursos de desenvolvimento web](https://classes.vedovelli.com.br/courses) - Curso de Svelte e Vue.js 3
-- [📦 Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores) - Ebook
 - [🐸 Hashtag treinamentos](http://pages.hashtagtreinamentos.com/inscricoes-mes2-concurso?origemref=aquinogui@hotmail.com) - Curso avançado de Excel, aberto em períodos limitados
 - [🔐 Shellter Labs](https://shellterlabs.com/pt) - Introdução a segurança da informação ofensiva
 - [🔩 Brincando com Ideias](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw) - Internet das coisas, Arduino, RaspBerry...
 - [⚙ Manual Maker](https://www.youtube.com/playlist?list=PLYjrJH3e_wDNLUTN32WittrpBxeleEqNpv) - Aprenda a mexer em ferramentas, construir circuitos eletrônicos, montar projetos...
-- [💬 Duolingo](https://pt.duolingo.com) - Cursos de idiomas
+- [💬 Duolingo](https://pt.duolingo.com) - Curso de idiomas
 - ⌨️ Cursos de digitação
   - [Agile Fingers](https://agilefingers.com/pt) - Digitação Básica
   - [Typing](https://www.typing.com/br) - Digitação e Informática
@@ -61,7 +60,11 @@
 - [🐍 The Zen of Python](https://pythonacademy.com.br/zen-of-python) - Lista com 19 princípios para escrever bons códigos na linguagem
 - [📹 YouCut](https://play.google.com/store/apps/details?id=com.camerasideas.trimmer) - Editor de video profissional para celular
 - [⚙ Tinkercad](https://www.tinkercad.com) - Simulação eletrônica e impressão 3d
-- [💡 1loc: one line of code](https://1loc.dev/) - Comandos javaScript em uma única linha(em inglês)
+- [💡 1loc: one line of code](https://1loc.dev/) - Comandos javaScript em uma única linha (em inglês)
+
+## Livros
+- [💡 Manual do Iniciante em JavaScript](https://github.com/ChristySchott/Manual-Iniciante-JavaScript/blob/master/Livro.md)
+- [📦 Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores)
 
 ## Artigos
 - [📱 Enviar mensagem para WhatsApp com React Native](https://medium.com/@miroldols/enviar-mensagem-para-whatsapp-com-react-native-70239bb65495)
