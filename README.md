@@ -2,6 +2,7 @@
 
 ## Sumário 
 1. [Cursos de tecnologia com certificado](#-Cursos-de-tecnologia-com-certificado)
+2. [Cursos de tecnologia com certificado](##-Cursos-de-tecnologia-e-informática)
 
 # Cursos de tecnologia com certificado
 - [💻 Digital Innovation One](https://digitalinnovation.one) - Geral
