@@ -12,6 +12,7 @@
 - [🐍 Solyd](https://solyd.com.br/treinamentos/python-basico) - Python Básico
 - 🐍 Coursera - Python
   - [Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos), [Parte 2](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2)
+- [🐸 Hashtag treinamentos](https://www.hashtagtreinamentos.com/) - Curso de Excel do básico ao avançado, Power BI, PowerPoint, VBA...
 
 ## Cursos de tecnologia e informática
 - [💻 Curso em vídeo](https://www.youtube.com/user/cursosemvideo) - Geral
@@ -36,7 +37,6 @@
 - [🌐 Minicurso web design responsivo](https://www.youtube.com/playlist?list=PLZTjHbp2Y782r6cqjm5JU91_sgPxM19k-) - HTML5 e CSS3
 - [🌐 Recriando Tela de Login do Facebook](https://bugnocod.wordpress.com/recriando-tela-login-facebook/?fbclid=IwAR1n_ivx935GS9vAadbqkDWYB8K_F6i7uq2xQaMBEpoyzvVS3RTUCqpw7BI) - HTML5 e CSS3
 - [🌐 Cursos de desenvolvimento web](https://classes.vedovelli.com.br/courses) - Curso de Svelte e Vue.js 3
-- [🐸 Hashtag treinamentos](https://www.hashtagtreinamentos.com/) - Curso de Excel do básico ao avançado, Power BI, PowerPoint, VBA...
 - [🔐 Shellter Labs](https://shellterlabs.com/pt) - Introdução a segurança da informação ofensiva
 - [🔩 Brincando com Ideias](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw) - Internet das coisas, Arduino, RaspBerry...
 - [⚙ Manual Maker](https://www.youtube.com/playlist?list=PLYjrJH3e_wDNLUTN32WittrpBxeleEqNpv) - Aprenda a mexer em ferramentas, construir circuitos eletrônicos, montar projetos...
