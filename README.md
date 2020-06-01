@@ -1,7 +1,7 @@
 # 📜 Estudos de tecnologia
-## Sumário 
 
-1. [Cursos de tecnologia com certificado]()
+## Sumário 
+1. [Cursos de tecnologia com certificado](#-Cursos-de-tecnologia-com-certificado)
 
 # Cursos de tecnologia com certificado
 - [💻 Digital Innovation One](https://digitalinnovation.one) - Geral
