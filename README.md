@@ -23,7 +23,10 @@
 - [🐍 Inteligência Artificial](https://www.youtube.com/playlist?list=PLMdYygf53DP7YZiFUtGTWJJlvynRyrna-) - Python 
 - [🐍 Python para análise de dados](https://www.youtube.com/watch?v=5kepfx0RquY&fbclid=IwAR199AhtXfr6z229mO-RwtO8pmRrywO9tN3wfLXd-zSJhrMef31lzWo3IN8)
 - [🐍 TreinaWeb](https://lp.treinaweb.com.br/python?fbclid=IwAR0h-VEvT7OZCHywGjk_Gb9TdJWy4RvRoylIhQZd8gyrhjKTE1Bz1AnQJQI#receber) - Mini Curso Django
-- [💡 Rocketseat](https://rocketseat.com.br) - Javascript, ReactJs e NodeJs
+- 💡 Rocketseat - Javascript, ReactJs e NodeJs
+  - [💜 Site](https://rocketseat.com.br)
+  - [📝 Blog](https://blog.rocketseat.com.br)
+  - [🚀 Next Level Week](https://nextlevelweek.com)
 - [💡 Efeito Máquina de Escrever](https://www.youtube.com/watch?v=zx2axQoY_YM&fbclid=IwAR2R2rdroPX8ZPFT4eidxtba3x-sInfKiyr_4WHovB1ft4AS1vjC6PyMgZE) - JavaScript
 - [💡 Emerson Broga](https://www.youtube.com/channel/UC29n3f6JhwqtD-kCJi_BwoA) - Javascript, ReactJs e NodeJs
 - [💡 Desenvolvimento de jogos](https://www.youtube.com/playlist?list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL) - Javascript, ReactJs e NodeJs 
