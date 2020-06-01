@@ -49,21 +49,25 @@
   - [10 Fast Fingers](https://10fastfingers.com/typing-test/portuguese) - Teste de velocidade
 
 ## Ferramentas
+- [☁ Notion](https://www.notion.so) - Anotações em nuvem
 - ☁ Programação em nuvem:
   - https://www.gitpod.io
   - https://codesandbox.io
   - https://codepen.io
   - https://repl.it
   - https://ideone.com
-- [☁ Notion](https://www.notion.so) - Anotações em nuvem
+- ✏ Design
+  - [Excalidraw](https://excalidraw.com) - Criar diagramas que parecem que foram feitos "na mão"
+  - [Whinsical](https://whimsical.com)
+  - [Figma](https://www.figma.com) - Prototipação e diagramas
 - [🖼 Remove.bg](https://www.remove.bg) - Remover fundo de imagens
 - [🖼 Unscreen](https://www.unscreen.com/) - Remover fundo de vídeos e GIFs
 - [👥 Opensource builders](https://opensource.builders/) - Alternativas open source a softwares
-- [✏ Excalidraw](https://excalidraw.com/) - Criar diagramas que parecem que foram feitos "na mão"
 - [🐍 The Zen of Python](https://pythonacademy.com.br/zen-of-python) - Lista com 19 princípios para escrever bons códigos na linguagem
 - [📹 YouCut](https://play.google.com/store/apps/details?id=com.camerasideas.trimmer) - Editor de video profissional para celular
 - [⚙ Tinkercad](https://www.tinkercad.com) - Simulação eletrônica e impressão 3d
 - [💡 1loc: one line of code](https://1loc.dev/) - Comandos javaScript em uma única linha (em inglês)
+
 
 ## Livros
 - [💡 Manual do Iniciante em JavaScript](https://github.com/ChristySchott/Manual-Iniciante-JavaScript/blob/master/Livro.md)
