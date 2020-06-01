@@ -1,10 +1,6 @@
 # 📜 Estudos de tecnologia
 
-## Sumário 
-1. [Cursos de tecnologia com certificado](#-Cursos-de-tecnologia-com-certificado)
-2. [Cursos de tecnologia com certificado](##-Cursos-de-tecnologia-e-informática)
-
-# Cursos de tecnologia com certificado
+## Cursos de tecnologia com certificado
 - [💻 Digital Innovation One](https://digitalinnovation.one) - Geral
 - [💻 School of net](https://www.schoolofnet.com/cursos/gratuitos) - Geral
 - [💻 4Linux](https://4linux.com.br/cursos-gratis) - Geral
@@ -52,7 +48,7 @@
   - [Type racer](https://play.typeracer.com/) - Treinamento
   - [10 Fast Fingers](https://10fastfingers.com/typing-test/portuguese) - Teste de velocidade
 
-# Ferramentas
+## Ferramentas
 - [☁ Notion](https://www.notion.so) - Anotações em nuvem
 - ☁ Programação em nuvem:
   - https://www.gitpod.io
