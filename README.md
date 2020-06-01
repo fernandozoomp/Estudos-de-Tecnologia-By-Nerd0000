@@ -58,7 +58,7 @@
   - https://ideone.com
 - ✏ Design
   - [Excalidraw](https://excalidraw.com) - Criar diagramas que parecem que foram feitos "na mão"
-  - [Whinsical](https://whimsical.com)
+  - [Whinsical](https://whimsical.com) - Prototipação e diagramas
   - [Figma](https://www.figma.com) - Prototipação e diagramas
 - [🖼 Remove.bg](https://www.remove.bg) - Remover fundo de imagens
 - [🖼 Unscreen](https://www.unscreen.com/) - Remover fundo de vídeos e GIFs
