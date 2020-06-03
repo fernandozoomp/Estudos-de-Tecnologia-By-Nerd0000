@@ -75,6 +75,14 @@
 - [📦 Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores)
 - [📄 O editor de texto vim](https://vimbook.gitbook.io/vimbook)
 
+## Repositórios no GitHub
+- [🐍 Python, Django, Flask e afins.](https://github.com/pug-ma/materiais_estudo)
+- 💻 Geral
+  - [estudos](https://github.com/Leandro-Araujo/estudos)
+  - [lupe](https://github.com/leonardoamurca/lupe/blob/master/LINKS.md)
+- [📱 Android](https://github.com/androiddevbr/materiais-de-estudo)
+- [🐘 Laravel](https://github.com/lemesdaniel/laravel-links)
+
 ## Artigos
 - [🔗 Blog How To Geek](https://www.howtogeek.com) - em inglês
 - [🌳 Como alterar o repositório remoto de um diretório de trabalho](https://devblog.drall.com.br/git-como-alterar-o-repositorio-remoto-de-um-diretorio-de-trabalho) 
