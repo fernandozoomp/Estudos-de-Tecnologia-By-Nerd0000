@@ -22,6 +22,7 @@
 - [🐍 Curso em vídeo](https://www.youtube.com/user/cursosemvideo) - Python
   - [Parte 1](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6), [Parte 2](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye), [Parte 3](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)
 - [🐍 Pythonando](https://www.youtube.com/channel/UCDqfUwybgEA9Hg3P32G4Uaw/videos) - Python
+- [🐍 Eduardo Mendes](https://www.youtube.com/user/mendesesduardo) - Python
 - [🐍 Inteligência Artificial](https://www.youtube.com/playlist?list=PLMdYygf53DP7YZiFUtGTWJJlvynRyrna-) - Python 
 - [🐍 Python para análise de dados](https://www.youtube.com/watch?v=5kepfx0RquY&fbclid=IwAR199AhtXfr6z229mO-RwtO8pmRrywO9tN3wfLXd-zSJhrMef31lzWo3IN8)
 - [🐍 TreinaWeb](https://lp.treinaweb.com.br/python?fbclid=IwAR0h-VEvT7OZCHywGjk_Gb9TdJWy4RvRoylIhQZd8gyrhjKTE1Bz1AnQJQI#receber) - Mini Curso Django
