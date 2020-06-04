@@ -74,9 +74,14 @@
 - [💡 Manual do Iniciante em JavaScript](https://github.com/ChristySchott/Manual-Iniciante-JavaScript/blob/master/Livro.md)
 - [📦 Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores)
 - [📄 O editor de texto vim](https://vimbook.gitbook.io/vimbook)
+- [:cyclone: Deep Learning Book](http://www.deeplearningbook.com.br/)
+- [🐍 Python Data Science Handbook(inglês)](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [🐍 https://penseallen.github.io/PensePython2e/](https://greenteapress.com/wp/think-python-2e/)
+- [🐍 Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
 ## Repositórios no GitHub
 - [🐍 Python, Django, Flask e afins.](https://github.com/pug-ma/materiais_estudo)
+- [🐍 Raspagem de dados para iniciantes com Python](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes) 
 - 💻 Geral
   - [estudos](https://github.com/Leandro-Araujo/estudos)
   - [lupe](https://github.com/leonardoamurca/lupe/blob/master/LINKS.md)
