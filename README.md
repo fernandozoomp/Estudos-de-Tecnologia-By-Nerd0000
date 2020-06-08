@@ -42,6 +42,7 @@
 - [🐍 Curso em vídeo](https://www.youtube.com/user/cursosemvideo) - Python
   - [Parte 1](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6), [Parte 2](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye), [Parte 3](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)
 - [🐍 Pythonando](https://www.youtube.com/channel/UCDqfUwybgEA9Hg3P32G4Uaw/videos) - Python
+- [🐍 Eduardo Mendes](https://www.youtube.com/user/mendesesduardo) - Python
 - [🐍 Inteligência Artificial](https://www.youtube.com/playlist?list=PLMdYygf53DP7YZiFUtGTWJJlvynRyrna-) - Python 
 - [🐍 Python para análise de dados](https://www.youtube.com/watch?v=5kepfx0RquY&fbclid=IwAR199AhtXfr6z229mO-RwtO8pmRrywO9tN3wfLXd-zSJhrMef31lzWo3IN8)
 - [🐍 TreinaWeb](https://lp.treinaweb.com.br/python?fbclid=IwAR0h-VEvT7OZCHywGjk_Gb9TdJWy4RvRoylIhQZd8gyrhjKTE1Bz1AnQJQI#receber) - Mini Curso Django
@@ -95,6 +96,10 @@
 - [💡 Manual do Iniciante em JavaScript](https://github.com/ChristySchott/Manual-Iniciante-JavaScript/blob/master/Livro.md)
 - [📦 Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores)
 - [📄 O editor de texto vim](https://vimbook.gitbook.io/vimbook)
+- [:cyclone: Deep Learning Book](http://www.deeplearningbook.com.br/)
+- [🐍 Python Data Science Handbook(inglês)](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [🐍 Think Python: How to Think Like a Computer Scientist (em inglês)](http://greenteapress.com/thinkpython2/html/index.html)
+- [🐍 Invent Your Own Computer Games with Python, 4th Edition (em inglês)](http://inventwithpython.com/invent4thed/chapter0.html)
 
 ## Repositórios no GitHub
 - 💻 Geral
@@ -103,6 +108,7 @@
   - [Lupe](https://github.com/leonardoamurca/lupe/blob/master/LINKS.md)
   - [Material de estudo](https://github.com/dekionbr/MaterialDeEstudo)
 - [🐍 Python, Django, Flask e afins.](https://github.com/pug-ma/materiais_estudo)
+- [🐍 Raspagem de dados para iniciantes com Python](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes)
 - [📱 Android](https://github.com/androiddevbr/materiais-de-estudo)
 - [🐘 Laravel](https://github.com/lemesdaniel/laravel-links)
 
