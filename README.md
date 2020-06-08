@@ -1,4 +1,25 @@
-# 📜 Estudos de tecnologia
+<h1 align="center">
+    < 📜 > <br>
+    Estudos de tecnologia
+</h1>
+
+<p align="center"> 
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Nerd0000/Links-de-Estudo.svg">
+
+  <a href="https://github.com/Nerd0000/Links-de-Estudo/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Nerd0000/Links-de-Estudo.svg">
+  </a>
+
+  <a href="https://github.com/Nerd0000/Links-de-Estudo/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/Nerd0000/Links-de-Estudo.svg">
+  </a>
+  
+  <a href="https://discord.gg/KkRkpNb">
+     <img src="https://img.shields.io/discord/308323056592486420?logo=discord" alt="chat on Discord">
+  </a>
+
+</p>
 
 ## Cursos de tecnologia com certificado
 - [💻 Digital Innovation One](https://digitalinnovation.one) - Geral
@@ -17,7 +38,6 @@
 ## Cursos de tecnologia e informática
 - [💻 Curso em vídeo](https://www.youtube.com/user/cursosemvideo) - Geral
 - [💻 Codando.org](https://codando.org/material-gratuito/) - Geral
-- [💻 4noobs](https://github.com/he4rt/4noobs) - Frameworks, Linguagens de programação, Design e etc
 - [🐧 Introdução ao Linux](http://884a37b.contato.site/captura-introducao-1?fbclid=IwAR1Z2FBbXsSt0eKmA9Kho3_A7fzBbJm7WaE3qTCHkHIFLVTULBV19fC5q0c)
 - [🐍 Curso em vídeo](https://www.youtube.com/user/cursosemvideo) - Python
   - [Parte 1](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6), [Parte 2](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye), [Parte 3](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)
@@ -54,6 +74,7 @@
 - [☁ Notion](https://www.notion.so) - Anotações em nuvem
 - ☁ Programação em nuvem:
   - https://www.gitpod.io
+  - https://glitch.com
   - https://codesandbox.io
   - https://codepen.io
   - https://repl.it
@@ -77,15 +98,17 @@
 - [📄 O editor de texto vim](https://vimbook.gitbook.io/vimbook)
 - [:cyclone: Deep Learning Book](http://www.deeplearningbook.com.br/)
 - [🐍 Python Data Science Handbook(inglês)](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- [🐍 https://penseallen.github.io/PensePython2e/](https://greenteapress.com/wp/think-python-2e/)
-- [🐍 Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [🐍 Think Python: How to Think Like a Computer Scientist (em inglês)](http://greenteapress.com/thinkpython2/html/index.html)
+- [🐍 Invent Your Own Computer Games with Python, 4th Edition (em inglês)](http://inventwithpython.com/invent4thed/chapter0.html)
 
 ## Repositórios no GitHub
-- [🐍 Python, Django, Flask e afins.](https://github.com/pug-ma/materiais_estudo)
-- [🐍 Raspagem de dados para iniciantes com Python](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes) 
 - 💻 Geral
-  - [estudos](https://github.com/Leandro-Araujo/estudos)
-  - [lupe](https://github.com/leonardoamurca/lupe/blob/master/LINKS.md)
+  - [4noobs](https://github.com/he4rt/4noobs)
+  - [Estudos](https://github.com/Leandro-Araujo/estudos)
+  - [Lupe](https://github.com/leonardoamurca/lupe/blob/master/LINKS.md)
+  - [Material de estudo](https://github.com/dekionbr/MaterialDeEstudo)
+- [🐍 Python, Django, Flask e afins.](https://github.com/pug-ma/materiais_estudo)
+- [🐍 Raspagem de dados para iniciantes com Python](https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes)
 - [📱 Android](https://github.com/androiddevbr/materiais-de-estudo)
 - [🐘 Laravel](https://github.com/lemesdaniel/laravel-links)
 
