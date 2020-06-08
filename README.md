@@ -38,7 +38,6 @@
 ## Cursos de tecnologia e informática
 - [💻 Curso em vídeo](https://www.youtube.com/user/cursosemvideo) - Geral
 - [💻 Codando.org](https://codando.org/material-gratuito/) - Geral
-- [💻 4noobs](https://github.com/he4rt/4noobs) - Frameworks, Linguagens de programação, Design e etc
 - [🐧 Introdução ao Linux](http://884a37b.contato.site/captura-introducao-1?fbclid=IwAR1Z2FBbXsSt0eKmA9Kho3_A7fzBbJm7WaE3qTCHkHIFLVTULBV19fC5q0c)
 - [🐍 Curso em vídeo](https://www.youtube.com/user/cursosemvideo) - Python
   - [Parte 1](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6), [Parte 2](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye), [Parte 3](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)
@@ -98,10 +97,12 @@
 - [📄 O editor de texto vim](https://vimbook.gitbook.io/vimbook)
 
 ## Repositórios no GitHub
-- [🐍 Python, Django, Flask e afins.](https://github.com/pug-ma/materiais_estudo)
 - 💻 Geral
-  - [estudos](https://github.com/Leandro-Araujo/estudos)
-  - [lupe](https://github.com/leonardoamurca/lupe/blob/master/LINKS.md)
+  - [4noobs](https://github.com/he4rt/4noobs)
+  - [Estudos](https://github.com/Leandro-Araujo/estudos)
+  - [Lupe](https://github.com/leonardoamurca/lupe/blob/master/LINKS.md)
+  - [Material de estudo](https://github.com/dekionbr/MaterialDeEstudo)
+- [🐍 Python, Django, Flask e afins.](https://github.com/pug-ma/materiais_estudo)
 - [📱 Android](https://github.com/androiddevbr/materiais-de-estudo)
 - [🐘 Laravel](https://github.com/lemesdaniel/laravel-links)
 
