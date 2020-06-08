@@ -97,7 +97,7 @@
 - [📦 Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores)
 - [📄 O editor de texto vim](https://vimbook.gitbook.io/vimbook)
 - [:cyclone: Deep Learning Book](http://www.deeplearningbook.com.br/)
-- [🐍 Python Data Science Handbook(inglês)](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [🐍 Python Data Science Handbook (em inglês)](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [🐍 Think Python: How to Think Like a Computer Scientist (em inglês)](http://greenteapress.com/thinkpython2/html/index.html)
 - [🐍 Invent Your Own Computer Games with Python, 4th Edition (em inglês)](http://inventwithpython.com/invent4thed/chapter0.html)
 
